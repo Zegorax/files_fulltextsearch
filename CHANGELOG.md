@@ -232,4 +232,4 @@ First stable release
 - First Beta
 
 
-<!-- CI check: temporary change used to trigger the workflows, not meant to be merged -->
+<!-- CI check: temporary change used to trigger the workflows (second run, Actions enabled), not meant to be merged -->
